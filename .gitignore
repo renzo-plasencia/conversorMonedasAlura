@@ -28,6 +28,7 @@ bin/
 ### Jar ###
 *.jar
 *.Jar
+!libs/
 
 ### Mac OS ###
 .DS_Store
