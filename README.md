@@ -28,13 +28,26 @@ Se utilizó [ExchangeRate - API](https://www.exchangerate-api.com/)
 
 ## Cómo instalar y ejecutar 🔧
 
+❗Recuerdar descargar [Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson), colocar el .jar en la carpeta "/libs" y reemplazar el nombre del archivo en los siguientes pasos.
+❗Recuerdar tener tu API Key de [ExchangeRate - API](https://www.exchangerate-api.com/).
+   
 1. **Clona este repositorio**:
    ```bash
    git clone https://github.com/tuusuario/conversor-monedas.git
    cd conversor-monedas
    ```
-2. asa
-3. a
-4. a
+
+2. **Coloca tu API Key**:
+   Coloca tu API Key en la clase **ConsultarMonedas** en la variable **api_key**.
+   
+3. **Compila el código**:
+   ```bash
+   javac -d out -cp libs/gson-2.11.0.jar src/com/alura/conversorMonedas/*.java
+   ```
+4. **Ejecuta el proyecto**:
+   ```bash
+   java -cp "out;libs\gson-2.11.0.jar" com.alura.conversorMonedas.Main
+   ```
+
 
 ## Imágenes 💻
