@@ -1,6 +1,8 @@
 # Conversor de Monedas 💰
 
-Descubre el poder del **Conversor de Monedas**, una aplicación interactiva diseñada para realizar conversiones de divisas en tiempo real. Este proyecto fue desarrollado como un ejercicio práctico para demostrar habilidades avanzadas en programación backend con Java, integrando tecnologías modernas y siguiendo principios sólidos de diseño de software.
+Con esta aplicación interactiva puedes convertir diferentes divisas en tiempo real. Este pequeño proyecto es un ejercicio práctico para demostrar mis habilidades básicas de backend en Java.
+
+Se utilizó [ExchangeRate - API](https://www.exchangerate-api.com/)
 
 ## Tecnologías utilizadas 🛠️
 
@@ -9,7 +11,7 @@ Descubre el poder del **Conversor de Monedas**, una aplicación interactiva dise
 - **Google Gson**: Para deserializar las respuestas JSON de la API.
 - **ExchangeRate-API**: API utilizada para obtener tasas de cambio en tiempo real.
 
-## Habilidades destacadas 🚀
+## ¿Qué usé habilidades usé en este proyecto? 🚀
 
 - [x] **Diseño modular** con Programación Orientada a Objetos (POO).  
 - [x] **Integración de APIs RESTful** para acceso a datos en tiempo real.  
@@ -30,3 +32,9 @@ Descubre el poder del **Conversor de Monedas**, una aplicación interactiva dise
    ```bash
    git clone https://github.com/tuusuario/conversor-monedas.git
    cd conversor-monedas
+   ```
+2. asa
+3. a
+4. a
+
+## Imágenes 💻
