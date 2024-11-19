@@ -27,6 +27,7 @@ bin/
 
 ### Jar ###
 .jar
+.Jar
 
 ### Mac OS ###
 .DS_Store
