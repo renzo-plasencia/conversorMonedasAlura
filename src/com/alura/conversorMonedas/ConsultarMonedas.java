@@ -8,7 +8,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConsultarMonedas {
-    private String api_key = "cac5b865679444f9b870435a";
+    private String api_key = "TU_API_KEY";
     String base_code;
     String target_code;
 
